@@ -1,3 +1,19 @@
+$fcp25: rgba(119,207,217,.3)
+$verde1: #035159
+$verde2: #043F45
+$g1: $verde1 0%, $verde2 100%
+$casi-blanco: #EFF2F2
+
+@mixin gradient($direction, $list)
+  background: -webkit-linear-gradient($direction, $list)
+  background: -moz-linear-gradient($direction, $list)
+  background: -o-linear-gradient($direction, $list)
+  background: linear-gradient($direction, $list)  
+  
+.g1
+  @include gradient(90deg, $g1)
+  
+
 /*@media (max-width: 990px) 
   .banner-principal
     .container.tarjeta
@@ -14,13 +30,103 @@
     background-size: fill
     background-repeat: no-repeat
     width: 115%
+  
+.bbg1
+  overflow: visible
+  padding: 3rem
+  margin-left: -6rem !important
+  margin-right: -6rem !important
+  background-color: 
+  background-position: bottom center
+  background-size: fill
+  background-repeat: no-repeat
+  width: 115%
 
 ._120px
   max-width: 120px
 
 .brpgpp
-  border-radius: 0 130px 40px 40px
-  background-color: rgba(119,207,217,.3)
+  border-radius: 0 150px 30px 30px
+  background-color: $fcp25
   max-width: 295px
   height: 340px
   padding: 0
+
+.contenedor
+  margin-left: -6rem !important
+  margin-right: -6rem !important
+
+.fcp25
+  background-color: $fcp25
+
+.cajon-b.color-acento-contenido
+  &::after
+    background-color: #F26D3D
+
+.cajon-b
+  &::after
+    content: ''
+    display: block
+    position: absolute
+    z-index: 0
+    border-radius: 10px 10px 0 10px
+    bottom: 25%
+    opacity: .85
+    right: 0px
+    width: 20px
+    height: 40px
+
+p.vineta
+  margin-left: 2.5rem
+  &::before
+    background-color: $color-acento-contenido
+    content: ''
+    display: block
+    position: relative
+    float: left
+    margin-top: 0
+    margin-left: -2rem
+    border-radius: 10px 0 10px 10px
+    top: 0
+    left: 0
+    bottom: auto
+    width: 20px
+    height: 20px
+
+.texto-acento-contenido
+  color: $color-acento-contenido !important
+
+.fcb
+  background-color: $casi-blanco
+
+.sliderbg1
+  background-image: url('../assets/curso/t2/sbg1.svg')
+  background-position: center center
+  background-size: cover
+
+.slyder-a__btn
+  &--atrs
+    left: -52px
+  &--sigt
+    right: -52px
+
+.slyder-a__btn--sigt, .slyder-a__btn--atrs
+  border: 1px solid $color-acento-botones !important
+
+.slyder-a__bullets__item
+  &--active
+    background-color: $color-acento-botones
+    border-color: $color-acento-botones
+
+.banner-interno
+  &__fondo
+    background-image: url('../assets/curso/tbg.jpg') !important
+    background-position: center
+    background-size: cover
+  &__titulo
+    h2
+      color: $white !important
+    &__icono
+      background-color: $white !important
+      i
+        color: $verde1 !important
