@@ -92,7 +92,7 @@ export default {
   referencias: [
     {
       referencia:
-        'Bosh. R. (16 de mayo de 2018). El método Harvard de negociación. [Video]. YouTube. ',
+        'Bosh, R. (16 de mayo de 2018). El método Harvard de negociación. [Video]. YouTube. ',
       link: 'https://www.youtube.com/watch?v=qcO9FuM1nzA',
     },
 
@@ -102,14 +102,14 @@ export default {
     },
     {
       referencia:
-        'Gutiérrez, R., Martínez, L., Gómez, M., García, G., y Caycedo, M. (2020). Cartilla de comportamiento emprendedor ¡camilo al logro! Servicio Nacional de Aprendizaje SENA',
+        'Gutiérrez, R., Martínez, L., Gómez, M., García, G., y Caycedo, M. (2020). Cartilla de comportamiento emprendedor ¡camino al logro! Servicio Nacional de Aprendizaje SENA.',
     },
 
     {
       referencia:
-        'Sánchez, J. A. (2013). Instrumentos y casos prácticos de negociación. ',
+        'Sánchez, J. A. (2013). Instrumentos y casos prácticos de negociación.',
       link:
-        'http://e-spacio.uned.es/fez/eserv/bibliuned:500689/n9.5_Instrumentos_y_casos_practicos_de_negociacion.pdf.',
+        'http://e-spacio.uned.es/fez/eserv/bibliuned:500689/n9.5_Instrumentos_y_casos_practicos_de_negociacion.pdf',
     },
 
     {
@@ -139,7 +139,7 @@ export default {
     {
       termino: 'Conflicto',
       significado:
-        'situación que enfrenta a dos o más personas a partir de una discrepancia generada y que requiere de un proceso de negociación para ser resuelto',
+        'situación que enfrenta a dos o más personas a partir de una discrepancia generada y que requiere de un proceso de negociación para ser resuelto.',
     },
     {
       termino: 'Intereses',
@@ -154,13 +154,15 @@ export default {
   ],
   complementario: [
     {
-      texto: 'Cartilla comportamiento emprendedor ¡camino al logro!',
+      texto:
+        'Gutiérrez, R., Martínez, L., Gómez, M., García, G., y Caycedo, M. (2020). <em>Cartilla comportamiento emprendedor ¡camino al logro!</em> Servicio Nacional de Aprendizaje SENA.',
       tipo: 'Libro',
       descarga:
         '/downloads/Anexo_1_Cartilla_comportamiento_emprendedor_camino_al_logro.pdf',
     },
     {
-      texto: 'El método Harvard de negociación.',
+      texto:
+        'Bosh, R. (2018). <em>El método Harvard de negociación.</em> [Video]. YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=qcO9FuM1nzA',
     },
@@ -178,22 +180,22 @@ export default {
         nombre: 'Rafael Neftalí Lizcano Reyes',
         cargo: 'Asesor metodológico y pedagógico',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'María Paula Gómez Franco',
-        cargo: 'Coordinación Nacional de Emprendimiento',
-        centro: 'SENA. Dirección de Empleo, Trabajo y Emprendimiento.',
+        cargo: 'Coordinación Nacional de Emprendimiento SENA.',
+        centro: 'Dirección de Empleo, Trabajo y Emprendimiento',
       },
       {
         nombre: 'Dayra Maritza Paz Calderón',
         cargo: 'Diseñadora instruccional',
-        centro: 'Centro de Diseño y Metrología - Regional Distrito Capital.',
+        centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
       },
       {
         nombre: 'Gloria Esperanza Ortiz Russi',
         cargo: 'Evaluadora instruccional',
-        centro: 'Centro de Diseño y Metrología - Regional Distrito Capital.',
+        centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
       },
       {
         nombre: 'Miguel Ricardo Rivera Lizcano',
@@ -203,7 +205,7 @@ export default {
       },
       {
         nombre: 'Claudia Milena Hernández Naranjo',
-        cargo: 'Diseñador Instruccional',
+        cargo: 'Diseñadora instruccional',
         centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
       },
       {
@@ -223,49 +225,49 @@ export default {
         nombre: 'Francisco José Lizcano Reyes',
         cargo: 'Responsable del equipo',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Leyson Fabian Castaño Perez',
         cargo: 'Soporte organizacional',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
       {
-        nombre: 'Marcela González',
+        nombre: 'Marcela González Gómez',
         cargo: 'Diseño web',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Walter Roa Serrano',
         cargo: 'Desarrollo front-end',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Mauricio Santamaría',
+        nombre: 'Andrés Mauricio Santaella Ochoa',
         cargo: 'Soporte front-end',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       /*{
         nombre: 'Nombre',
         cargo: 'Producción audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
-      },
+      },*/
       {
-        nombre: 'Nombre',
+        nombre: 'Jenny Paola Montillo Gélvez',
         cargo: 'Validación de diseño y contenido',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
-      },*/
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
     ],
     gestoresRepositorio: [
       {
         nombre: 'Milady Tatiana Villamil Castellanos',
         cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
     ],
   },

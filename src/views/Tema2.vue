@@ -18,7 +18,7 @@
     .row.align-items-center.mb-5
       .col-lg-5
         img(src='@/assets/curso/t2/f-2.png' alt='imagen relacionada')
-      .col-lg-7
+      .col-lg-6.mx-auto
         p Cada individuo elabora un mapa o modelo del mundo que es único, como los rasgos faciales o el ADN, pues cada persona ve las cosas a su manera. Como se ha evidenciado en la negociación, no puede haber dos mapas idénticos, siempre existirán discrepancias. El ideal sería que las personas pudieran estar de acuerdo en todo, pero la realidad es que esto nunca pasa, aunque todos tienen algo en común con otras personas como el idioma, las costumbres, los valores, o los gustos.
         p Los conflictos se generan cuando: 
         p.vineta Las diferencias se interpretan como una amenaza. 
@@ -30,21 +30,21 @@
       .col-lg-3
         .tarjeta-avatar
           img(src='@/assets/curso/t2/f-3.svg' alt='imagen relacionada')
-          .tarjeta.fcb.text-center
+          .tarjeta.fcb.text-center.boxShadow
             .p-4
               h4 Factor A
               p La información recibida siempre tiene filtros personales como creencias, valores, intereses, etc.
       .col-lg-3
         .tarjeta-avatar
           img(src='@/assets/curso/t2/f-4.svg' alt='imagen relacionada')
-          .tarjeta.fcb.text-center
+          .tarjeta.fcb.text-center.boxShadow
             .p-4
               h4 Factor B
               p Se ha comprobado que las emociones intensas pueden cambiar la percepción de la realidad.
       .col-lg-3
         .tarjeta-avatar
           img(src='@/assets/curso/t2/f-5.svg' alt='imagen relacionada')
-          .tarjeta.fcb.text-center
+          .tarjeta.fcb.text-center.boxShadow
             .p-4
               h4 Factor C
               p La  memoria es selectiva, por lo que tiende a recordar los hechos e información que resulta acorde con el punto de vista personal.
@@ -68,7 +68,7 @@
             h4 Situación desde la perspectiva de Juan 
             p.vineta Juan, el colaborador, siente bastante presión, pues tiene mucho trabajo represado y no ha logrado ponerse al día. 
             p.vineta Al parecer su jefe no contempla todas las tareas que ya tiene y sigue entregando más responsabilidades dando plazo de entrega para todo su trabajo, el lunes de la próxima semana.
-            p.vineta Juan ha identificado que hay personas que podrían apoyarlo, pero no tiene forma de involucrarlos sin que su jefe dé la instrucción.  
+            p.vineta Juan ha identificado que hay personas que podrían apoyarlo, pero no tiene forma de involucrarlas sin que su jefe dé la instrucción.  
             p.vineta Juan considera que por más que trabaje horas extras, no podrá cumplir con las responsabilidades ya que trabaja solo en estas labores. 
             p.vineta Adicionalmente, tiene que cumplir con las labores de su hogar,  apoyar a su esposa y a sus hijos. 
             p.vineta Últimamente, ha tenido un dolor muy fuerte de cabeza que reduce su eficiencia en el trabajo.
@@ -166,7 +166,7 @@
     .col-lg-8.mx-auto
       .tarjeta.g1.p-3.mb-5
         .row.justify-content-around.align-items-center
-          .col-3.col-sm-2.col-lg-1
+          .col-3.col-sm-2.col-lg-2
             img(src='@/assets/curso/t2/f7.svg' alt='Imagen relacionada')
           .col
             .row.justify-content-between.align-items-center
@@ -180,26 +180,26 @@
     Separador
     #t_2_3.titulo-segundo
       h2 2.3 <em>Tips</em> de negociación
-    p Fisher, Ury y Patton (2018) presentaron los siguientes tips que permitirán fortalecer las relaciones y generar confianza en una negociación. 
+    p Fisher, Ury y Patton (2018) presentaron los siguientes <em>tips</em> que permitirán fortalecer las relaciones y generar confianza en una negociación. 
     .row.align-items-center.mb-5
       .col-lg-8
-        p.vineta Ser blando con las personas y duro con los problemas: los negociadores son seres humanos que traen consigo sentimientos, emociones, valores y puntos de vista diferentes. Por esta razón, identificar el problema a través de preguntas y centrarse en esa parte más que en la persona puede resultar muy positivo al momento de negociar. 
-        p.vineta Separar las personas del problema: las personas, generalmente, tienen dos clases de intereses, en lo sustancial: lo que se quiere lograr, y la relación: mantener una relación redituable con la otra parte. Por lo que la comunicación es fundamental y es necesario identificar los intereses de la persona para centrarse en lo realmente importante. 
-        p.vineta Ponerse en los zapatos de los otros: conocer lo que la otra parte busca y cuáles son las causas del problema o del objetivo a negociar le permite comprender su punto de vista. 
-        p.vineta Recordar que cada parte tiene una percepción e intereses diferentes: uno de los grandes errores en la negociación es considerar que su propia posición es la verdadera y que cualquier diferencia será rechazada, por lo que es necesario tener presente que todos piensan diferente. 
+        p.vineta <b>Ser blando con las personas y duro con los problemas:</b> los negociadores son seres humanos que traen consigo sentimientos, emociones, valores y puntos de vista diferentes. Por esta razón, identificar el problema a través de preguntas y centrarse en esa parte más que en la persona puede resultar muy positivo al momento de negociar. 
+        p.vineta <b>Separar las personas del problema:</b> las personas, generalmente, tienen dos clases de intereses, en lo sustancial: lo que se quiere lograr, y la relación: mantener una relación redituable con la otra parte. Por lo que la comunicación es fundamental y es necesario identificar los intereses de la persona para centrarse en lo realmente importante. 
+        p.vineta <b>Ponerse en los zapatos de los otros:</b> conocer lo que la otra parte busca y cuáles son las causas del problema o del objetivo a negociar le permite comprender su punto de vista. 
+        p.vineta <b>Recordar que cada parte tiene una percepción e intereses diferentes:</b> uno de los grandes errores en la negociación es considerar que su propia posición es la verdadera y que cualquier diferencia será rechazada, por lo que es necesario tener presente que todos piensan diferente. 
       .col-lg-4
         img(src='@/assets/curso/t2/f8.png' alt='Imagen relacionada')
     .row.align-items-center.mb-5
       .col-lg-4
         img(src='@/assets/curso/t2/f9.png' alt='Imagen relacionada')
       .col-lg-8
-        p.vineta En algunos casos, las emociones pueden ser más importantes que las palabras, se debe estar atento al lenguaje corporal, las emociones que no se reconocen pueden permear la negociación. Las emociones que no se expresan pueden generar que sea más difícil escuchar. 
-        p.vineta Enfocarse en los intereses: el problema de una negociación, generalmente, son los intereses no las posiciones, que son las razones que lo hacen tomar una decisión u otra. 
-        p.vineta La mayoría de las personas pelean más por una causa que por un propósito. 
-        p.vineta Escuchar sin interrumpir ni contradecir: la importancia de la escucha para lograr una comunicación efectiva. La persona que sabe escuchar se permite interpretar lo que la gente está diciendo.
+        p.vineta <b>En algunos casos, las emociones</b> pueden ser más importantes que las palabras, se debe estar atento al lenguaje corporal, las emociones que no se reconocen pueden permear la negociación. Las emociones que no se expresan pueden generar que sea más difícil escuchar. 
+        p.vineta <b>Enfocarse en los intereses:</b> el problema de una negociación, generalmente, son los intereses no las posiciones, que son las razones que lo hacen tomar una decisión u otra. 
+        p.vineta La mayoría de las personas pelean más por una causa que por un <b>propósito</b>. 
+        p.vineta <b>Escuchar sin interrumpir ni contradecir:</b> la importancia de la escucha para lograr una comunicación efectiva. La persona que sabe escuchar se permite interpretar lo que la gente está diciendo.
     .col-lg-10.mx-auto.mb-5
       .cajon.color-acento-contenido.p-4
-        p.mb-0 La negociación hace parte del diario vivir, en cada relación personal, laboral, de pareja, en familia, cuando es necesario tomar una decisión se inicia este proceso. Como se puede evidenciar, toda relación constructiva y redituable inicia desde un trabajo personal, en las habilidades propias y en tomar conciencia de las diferencias que pueden existir en cada persona. 
+        p.mb-0 <b>La negociación</b> hace parte del diario vivir, en cada relación personal, laboral, de pareja, en familia, cuando es necesario tomar una decisión se inicia este proceso. Como se puede evidenciar, toda relación constructiva y redituable inicia desde un trabajo personal, en las habilidades propias y en tomar conciencia de las diferencias que pueden existir en cada persona. 
     p Como seres sociales, el cumplimiento de objetivos requiere del apoyo de otras personas y en el camino que construye un emprendedor siempre hay pasos que se generan a partir del trabajo con otras personas. 
     p Para finalizar, se invita a reflexionar en torno a las siguientes preguntas:
     p.vineta ¿Por qué es importante conocer los elementos de negociación?
@@ -209,7 +209,7 @@
     .col-lg-8.mx-auto
       .tarjeta.g1.p-3.mb-5
         .row.justify-content-around.align-items-center
-          .col-3.col-sm-2.col-lg-1
+          .col-3.col-sm-2.col-lg-2
             img(src='@/assets/curso/t2/f10.svg' alt='Imagen relacionada')
           .col
             .row.justify-content-between.align-items-center
