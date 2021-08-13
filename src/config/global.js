@@ -184,8 +184,8 @@ export default {
       },
       {
         nombre: 'María Paula Gómez Franco',
-        cargo: 'Coordinación Nacional de Emprendimiento SENA.',
-        centro: 'Dirección de Empleo, Trabajo y Emprendimiento',
+        cargo: 'Coordinación Nacional de Emprendimiento SENA',
+        centro: 'Dirección de Empleo, Trabajo y Emprendimiento - SENA',
       },
       {
         nombre: 'Dayra Maritza Paz Calderón',
@@ -201,7 +201,7 @@ export default {
         nombre: 'Miguel Ricardo Rivera Lizcano',
         cargo: 'Experto temático',
         centro:
-          'Centro de la Industria, La Empresa y Los Servicios - Regional Huila,',
+          'Centro de la Industria, La Empresa y Los Servicios - Regional Huila',
       },
       {
         nombre: 'Claudia Milena Hernández Naranjo',

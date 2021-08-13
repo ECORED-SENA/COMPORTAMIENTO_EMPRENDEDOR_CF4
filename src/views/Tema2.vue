@@ -9,7 +9,7 @@
     .row.mb-5
       .col-lg-5
         p Las técnicas de negociación son un conjunto de estrategias que podrán ser utilizadas dentro de una negociación y le permitirán obtener los objetivos esperados. La negociación no es un proceso sencillo, requiere de gran atención y aprender a empatizar con las expectativas de la contraparte. Sin embargo, es clave asumir una posición cooperativa y no generar conflicto para llegar a acuerdos efectivos. 
-        p A continuación, se presentan algunas técnicas de negociación que podrán ser útiles para aplicar en la vida personal y profesional. 
+        p.mb-5 A continuación, se presentan algunas técnicas de negociación que podrán ser útiles para aplicar en la vida personal y profesional. 
       .col-lg-6
         img(src='@/assets/curso/t2/f-1.png' alt='imagen relacionada')
     Separador
@@ -17,7 +17,7 @@
       h2 2.1 Mapa de la negociación
     .row.align-items-center.mb-5
       .col-lg-5
-        img(src='@/assets/curso/t2/f-2.png' alt='imagen relacionada')
+        img(src='@/assets/curso/t2/f-2.png' alt='imagen relacionada').mb-5
       .col-lg-6.mx-auto
         p Cada individuo elabora un mapa o modelo del mundo que es único, como los rasgos faciales o el ADN, pues cada persona ve las cosas a su manera. Como se ha evidenciado en la negociación, no puede haber dos mapas idénticos, siempre existirán discrepancias. El ideal sería que las personas pudieran estar de acuerdo en todo, pero la realidad es que esto nunca pasa, aunque todos tienen algo en común con otras personas como el idioma, las costumbres, los valores, o los gustos.
         p Los conflictos se generan cuando: 
@@ -27,21 +27,21 @@
     p.mb-5 Debido a varios factores es imposible percibir la realidad tal cual como es, los seres humanos solo pueden interpretarla: 
     .row.justify-content-between.px-5.mb-5
       .col-lg-1
-      .col-lg-3
+      .col-lg-3.mb-4
         .tarjeta-avatar
           img(src='@/assets/curso/t2/f-3.svg' alt='imagen relacionada')
           .tarjeta.fcb.text-center.boxShadow
             .p-4
               h4 Factor A
               p La información recibida siempre tiene filtros personales como creencias, valores, intereses, etc.
-      .col-lg-3
+      .col-lg-3.mb-4
         .tarjeta-avatar
           img(src='@/assets/curso/t2/f-4.svg' alt='imagen relacionada')
           .tarjeta.fcb.text-center.boxShadow
             .p-4
               h4 Factor B
               p Se ha comprobado que las emociones intensas pueden cambiar la percepción de la realidad.
-      .col-lg-3
+      .col-lg-3.mb-4
         .tarjeta-avatar
           img(src='@/assets/curso/t2/f-5.svg' alt='imagen relacionada')
           .tarjeta.fcb.text-center.boxShadow
@@ -57,7 +57,7 @@
           .cajon-b.color-acento-contenido.p-4
             p Las posiciones más claras para construir un mapa de negociación se pueden ver en los conflictos políticos o que implican decisiones ligadas a diferentes factores.
           p Es claro que si se construye un mapa de los bandos de la Guerra Fría, uno para las URSS y otro para EE. UU., se encontrarán grandes diferencias. Esto puede parecer un poco complejo por la cantidad de intereses que interfieren en este proceso. 
-          p Ahora se puede aterrizar el ejercicio a un ambiente laboral en el que se está presentando una diferencia entre un colaborador y su jefe, donde se identificarán las siguientes situaciones en los mapas de cada una de las partes:
+          p.mb-5 Ahora se puede aterrizar el ejercicio a un ambiente laboral en el que se está presentando una diferencia entre un colaborador y su jefe, donde se identificarán las siguientes situaciones en los mapas de cada una de las partes:
         .col-lg-6
           img(src='@/assets/curso/t2/f-6.png' alt='imagen relacionada')
     h3.text-center Ejemplo amplificado
@@ -119,7 +119,7 @@
             h4 ¿Considera que a partir de este análisis Juan y Álvaro podrían llegar a algún acuerdo?
             p Ahora identifique una situación personal que implique una negociación para usted, ¿cree que podría construir su mapa de negociación?, ¿indagar sobre el mapa de negociación de la contraparte le permitiría encontrar una solución?, escriba su reflexión en su bitácora personal.
             p Ahora identifique una situación personal que implique una negociación para usted, ¿cree que podría construir su mapa de negociación?, ¿indagar sobre el mapa de negociación de la contraparte le permitiría encontrar una solución?, escriba su reflexión en su bitácora personal. 
-            .cajon.color-acento-contenido.p-4
+            .cajon.color-acento-contenido.p-4.mb-5
               p.mb-0 Nota. <em>Esta actividad no es evaluativa pero le permitirá comprender mejor cómo realizar un mapa de negociación.</em>
           .col-lg-6
             img(src='@/assets/curso/t2/f4.png' alt='imagen relacionada')
@@ -146,7 +146,7 @@
     p.mb-5 A continuación, se presentan los diferentes perfiles:
     .row.align-items-center.mb-5(data-aos='fade-down-left')
       .col-lg-6
-        img(src='@/assets/curso/t2/f6.png' alt='imagen relacionada')
+        img(src='@/assets/curso/t2/f6.png' alt='imagen relacionada').mb-4
       .col-lg-6
         .tarjeta.fcp25.p-4.mb-4
           h4 Lobo (competitivo)
@@ -188,10 +188,10 @@
         p.vineta <b>Ponerse en los zapatos de los otros:</b> conocer lo que la otra parte busca y cuáles son las causas del problema o del objetivo a negociar le permite comprender su punto de vista. 
         p.vineta <b>Recordar que cada parte tiene una percepción e intereses diferentes:</b> uno de los grandes errores en la negociación es considerar que su propia posición es la verdadera y que cualquier diferencia será rechazada, por lo que es necesario tener presente que todos piensan diferente. 
       .col-lg-4
-        img(src='@/assets/curso/t2/f8.png' alt='Imagen relacionada')
+        img(src='@/assets/curso/t2/f8.png' alt='Imagen relacionada' style='max-width:450px').mb-4.mx-auto
     .row.align-items-center.mb-5
       .col-lg-4
-        img(src='@/assets/curso/t2/f9.png' alt='Imagen relacionada')
+        img(src='@/assets/curso/t2/f9.png' alt='Imagen relacionada').mb-4
       .col-lg-8
         p.vineta <b>En algunos casos, las emociones</b> pueden ser más importantes que las palabras, se debe estar atento al lenguaje corporal, las emociones que no se reconocen pueden permear la negociación. Las emociones que no se expresan pueden generar que sea más difícil escuchar. 
         p.vineta <b>Enfocarse en los intereses:</b> el problema de una negociación, generalmente, son los intereses no las posiciones, que son las razones que lo hacen tomar una decisión u otra. 
