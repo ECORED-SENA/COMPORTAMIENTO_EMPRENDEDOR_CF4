@@ -184,7 +184,7 @@ export default {
       },
       {
         nombre: 'María Paula Gómez Franco',
-        cargo: 'Coordinación Nacional de Emprendimiento SENA',
+        cargo: 'Coordinación Nacional de Emprendimiento',
         centro: 'Dirección de Empleo, Trabajo y Emprendimiento - SENA',
       },
       {
