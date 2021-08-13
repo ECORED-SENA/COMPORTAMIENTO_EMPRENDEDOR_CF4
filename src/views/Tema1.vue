@@ -38,7 +38,7 @@
     p.mb-4 Antes de profundizar sobre los elementos de la negociación, es importante consultar el siguiente video institucional del SENA.
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/w9wSJ_L1j3M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     p.mb-5 Entre los diferentes conceptos que se han desarrollado, se presentan los siguientes elementos de negociación (Suares, 2017): 
     .col-lg-9.mx-auto.mb-5
       h3.text-center Elementos de la negociación
