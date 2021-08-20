@@ -38,10 +38,11 @@
     p.mb-4 Antes de profundizar sobre los elementos de la negociación, es importante consultar el siguiente video institucional del SENA.
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/w9wSJ_L1j3M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/Vyp6KKyPAOc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)       
+
+
     p.mb-5 Entre los diferentes conceptos que se han desarrollado, se presentan los siguientes elementos de negociación (Suares, 2017): 
-    .col-lg-9.mx-auto.mb-5
-      h3.text-center Elementos de la negociación
+    .col-lg-9.mx-auto.mb-5      
       img(src='@/assets/curso/t1/f5.svg' alt='Elementos de la negociación').mb-4
     p El primer elemento es la <b>relación</b>, en ocasiones la relación es más importante que lo que se está negociando, pues <b>identificar qué tipo de relación se tiene con la persona que va a negociar es clave</b>. Esto puede diferenciar una negociación laboral o de negocios, de una personal. 
     p.mb-5 La relación es un elemento que precede a la negociación, es decir antes de iniciar el proceso, posiblemente, ya se tiene un vínculo con quien va a negociar. 
